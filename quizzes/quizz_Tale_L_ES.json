@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "question": "Quelle est le premièr terme de la suite arithmétique définie par son premier terme 3 et sa raison 2 ?",
+        "options": [
+            "3",
+            "5",
+            "2",
+            "1"
+        ],
+        "answer": "3",
+        "details": "Dans une suite arithmétique, le premier terme est défini, ici il est donné comme 3. La raison (2) ne modifie pas le premier terme."
+    },
+    {
+        "id": "2",
+        "question": "La fonction f(x) = x^2 est-elle continue sur R ?",
+        "options": [
+            "Oui",
+            "Non",
+            "Seulement pour x > 0",
+            "Seulement pour x < 0"
+        ],
+        "answer": "Oui",
+        "details": "La fonction f(x) = x^2 est un polynôme et est donc continue sur l'ensemble des réels, R."
+    },
+    {
+        "id": "3",
+        "question": "Si P(A) = 0.3 et P(B) = 0.4, quelle est P(A ∩ B) si A et B sont indépendants ?",
+        "options": [
+            "0.12",
+            "0.7",
+            "0.1",
+            "0.3"
+        ],
+        "answer": "0.12",
+        "details": "Si A et B sont indépendants, la probabilité de leur intersection est P(A) * P(B) = 0.3 * 0.4 = 0.12."
+    },
+    {
+        "id": "4",
+        "question": "Quelle est la valeur de la fonction exponentielle f(x) = e^x lorsque x = 0 ?",
+        "options": [
+            "1",
+            "0",
+            "e",
+            "infinity"
+        ],
+        "answer": "1",
+        "details": "Par définition, e^0 = 1, donc f(0) = 1."
+    },
+    {
+        "id": "5",
+        "question": "Quelle est la forme dérivée de la fonction logarithme népérien f(x) = ln(x) ?",
+        "options": [
+            "1/x",
+            "e^x",
+            "ln(x) / x",
+            "x"
+        ],
+        "answer": "1/x",
+        "details": "La dérivée de la fonction logarithme népérien ln(x) est 1/x, définie pour x > 0."
+    },
+    {
+        "id": "6",
+        "question": "Quelle est l'intégrale de la fonction constante f(x) = 5 sur l'intervalle [1, 3] ?",
+        "options": [
+            "10",
+            "5",
+            "15",
+            "20"
+        ],
+        "answer": "10",
+        "details": "L'intégrale de f(x) = 5 sur l'intervalle [1, 3] est 5 * (3 - 1) = 10."
+    },
+    {
+        "id": "7",
+        "question": "Soit X une variable aléatoire uniforme sur l'intervalle [0, 10]. Quelle est la probabilité que X soit inférieur à 5 ?",
+        "options": [
+            "0.5",
+            "0.25",
+            "0.75",
+            "1"
+        ],
+        "answer": "0.5",
+        "details": "La distribution uniforme sur [0, 10] implique que la probabilité d'un sous-intervalle est proportionnelle à sa longueur. Ainsi, P(X < 5) = (5-0)/(10-0) = 0.5."
+    },
+    {
+        "id": "8",
+        "question": "La fonction f(x) = -x^2 est-elle convexe ou concave ?",
+        "options": [
+            "Convexe",
+            "Concave",
+            "Aucune des deux",
+            "Variable selon x"
+        ],
+        "answer": "Concave",
+        "details": "La fonction f(x) = -x^2 est concave car sa dérivée seconde f''(x) = -2 < 0 pour tous x."
+    },
+    {
+        "id": "9",
+        "question": "Quelle est la formule de l'intervalle de fluctuation à 95% pour une moyenne estimée x̄ ?",
+        "options": [
+            "x̄ ± 1.96 * (σ/√n)",
+            "x̄ ± 2 * (σ/n)",
+            "x̄ ± 1.96 * σ",
+            "x̄ ± 3 * (σ/n)"
+        ],
+        "answer": "x̄ ± 1.96 * (σ/√n)",
+        "details": "L'intervalle de fluctuation à 95% est donné par x̄ ± 1.96 * (σ/√n), où σ est l'écart-type et n est la taille de l'échantillon."
+    },
+    {
+        "id": "10",
+        "question": "Si une suite géométrique a un premier terme de 2 et une raison de 3, quelle est la valeur du troisième terme ?",
+        "options": [
+            "18",
+            "6",
+            "27",
+            "54"
+        ],
+        "answer": "18",
+        "details": "Le troisième terme d'une suite géométrique est calculé par 2 * 3^(3-1) = 2 * 9 = 18."
+    },
+    {
+        "id": "11",
+        "question": "Quelle est la limite de la fonction f(x) = 1/x lorsque x tend vers l'infini ?",
+        "options": [
+            "0",
+            "1",
+            "infini",
+            "-infini"
+        ],
+        "answer": "0",
+        "details": "Lorsque x tend vers l'infini, 1/x tend vers 0."
+    },
+    {
+        "id": "12",
+        "question": "Dans un jeu de dés équitable avec un seul lancer, quelle est la probabilité d'obtenir un 6 ?",
+        "options": [
+            "1/6",
+            "1/2",
+            "1/3",
+            "5/6"
+        ],
+        "answer": "1/6",
+        "details": "Chaque face d'un dé a une probabilité égale. La probabilité d'obtenir un 6 est donc de 1/6."
+    },
+    {
+        "id": "13",
+        "question": "Quelle est l'expression de la fonction exponentielle représentant la croissance continue ?",
+        "options": [
+            "f(x) = e^(kx)",
+            "f(x) = k * e^x",
+            "f(x) = ln(k) * e^x",
+            "f(x) = x^k"
+        ],
+        "answer": "f(x) = e^(kx)",
+        "details": "La fonction exponentielle à croissance continue s'exprime par f(x) = e^(kx), où k est un coefficient de croissance."
+    },
+    {
+        "id": "14",
+        "question": "Quel est le maximum de la fonction f(x) = -x^2 + 4x - 3 ?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "5",
+        "details": "La fonction f(x) peut être réécrite sous la forme canonique f(x) = - (x-2)^2 + 1, son maximum est donc 5, atteint pour x=2."
+    },
+    {
+        "id": "15",
+        "question": "La variance d'un événement X est donnée par :",
+        "options": [
+            "E(X^2) - (E(X))^2",
+            "E(X) - E(X^2)",
+            "P(X) * (1 - P(X))",
+            "σ/√n"
+        ],
+        "answer": "E(X^2) - (E(X))^2",
+        "details": "La variance est effectivement calculée par la formule Var(X) = E(X^2) - (E(X))^2."
+    },
+    {
+        "id": "16",
+        "question": "Quelle est la dérivée de la fonction logarithme népérien f(x) = ln(x^2) ?",
+        "options": [
+            "2/x",
+            "1/x",
+            "e^x",
+            "2"
+        ],
+        "answer": "2/x",
+        "details": "La dérivée de ln(x^2) est 2 * (1/x) en utilisant la règle de dérivation de la fonction logarithme."
+    },
+    {
+        "id": "17",
+        "question": "Quel est l'intervalle de fluctuation à 95% pour une proportion échantillonnée de 0.3 dans un échantillon de taille 100 ?",
+        "options": [
+            "0.3 ± 0.1",
+            "0.3 ± 0.05",
+            "0.3 ± 0.06",
+            "0.3 ± 0.07"
+        ],
+        "answer": "0.3 ± 0.1",
+        "details": "L'intervalle est calculé par 0.3 ± 1.96 * sqrt(0.3 * 0.7 / 100), ce qui donne environ 0.1."
+    },
+    {
+        "id": "18",
+        "question": "Si la fonction f(x) = x^3, quel est le signe de la dérivée f'(x) pour x > 0 ?",
+        "options": [
+            "Positif",
+            "Négatif",
+            "Nul",
+            "A variable"
+        ],
+        "answer": "Positif",
+        "details": "La dérivée f'(x) = 3x^2 est positive pour x > 0, ce qui signifie que la fonction est croissante sur cet intervalle."
+    },
+    {
+        "id": "19",
+        "question": "Quel est le résultat de l'intégrale de x^2 de 0 à 2 ?",
+        "options": [
+            "2",
+            "4/3",
+            "8/3",
+            "3"
+        ],
+        "answer": "8/3",
+        "details": "L'intégrale de x^2 de 0 à 2 est (1/3)x^3 |_{0}^{2} = (1/3)(2^3) - 0 = 8/3."
+    },
+    {
+        "id": "20",
+        "question": "Quelle est la somme des premiers n termes d'une suite arithmétique avec un premier terme a et une raison r ?",
+        "options": [
+            "n/2 * (2a + (n - 1)r)",
+            "a * n + r",
+            "n * (a + r)",
+            "n * (2a + n - 1)"
+        ],
+        "answer": "n/2 * (2a + (n - 1)r)",
+        "details": "La somme des n premiers termes d'une suite arithmétique est donnée par la formule S_n = n/2 * (2a + (n - 1)r)."
+    }
+]

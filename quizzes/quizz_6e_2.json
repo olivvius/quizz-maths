@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "question": "Quel est le résultat de 45 + 27 ?",
+        "options": [
+            "62",
+            "72",
+            "73",
+            "74"
+        ],
+        "answer": "72",
+        "details": "Pour obtenir la réponse, additionne simplement les deux nombres."
+    },
+    {
+        "id": "2",
+        "question": "Quel est le résultat de 53 - 28 ?",
+        "options": [
+            "25",
+            "27",
+            "23",
+            "26"
+        ],
+        "answer": "25",
+        "details": "Pour obtenir la réponse, soustrait simplement le deuxième nombre du premier."
+    },
+    {
+        "id": "3",
+        "question": "Quel est le résultat de 9x6 ?",
+        "options": [
+            "45",
+            "54",
+            "56",
+            "44"
+        ],
+        "answer": "54",
+        "details": "Pour obtenir la réponse, multiplie simplement les deux nombres."
+    },
+    {
+        "id": "4",
+        "question": "Quel est le résultat de 64 ÷ 8 ?",
+        "options": [
+            "8",
+            "7",
+            "9",
+            "12"
+        ],
+        "answer": "8",
+        "details": "Pour obtenir la réponse, divise simplement le premier nombre par le second."
+    },
+    {
+        "id": "5",
+        "question": "Si vous achetez 3 articles à 75 cents chacun, combien cela coûte-t-il en tout ?",
+        "options": [
+            "$2.00",
+            "$2.25",
+            "$3.00",
+            "$2.50"
+        ],
+        "answer": "$2.25",
+        "details": "Pour obtenir la réponse, multiplie le coût de chaque article par le nombre total d'articles."
+    },
+    {
+        "id": "6",
+        "question": "Si 4 est le numérateur d'une fraction et 5 le dénominateur. Quelle est la fraction?",
+        "options": [
+            "4/5",
+            "5/4",
+            "1/4",
+            "1/5"
+        ],
+        "answer": "4/5",
+        "details": "Le numérateur est le chiffre du dessus dans une fraction et le dénominateur celui du dessous. Donc la fraction est 4/5."
+    },
+    {
+        "id": "7",
+        "question": "Jade a économisé 20 euros, ce qui représente 40% de son argent. Combien d'argent Jade a-t-elle en tout ?",
+        "options": [
+            "€30",
+            "€40",
+            "€50",
+            "€60"
+        ],
+        "answer": "€50",
+        "details": "Si 20€ représente 40%, alors pour trouver combien représente 100%, tu fais : 20 / 40 * 100 = €50."
+    },
+    {
+        "id": "8",
+        "question": "Si x vaut 2, quelle est la valeur de 3x ?",
+        "options": [
+            "5",
+            "6",
+            "8",
+            "10"
+        ],
+        "answer": "6",
+        "details": "Remplace x par 2. La valeur de 3x est donc 3*2=6."
+    },
+    {
+        "id": "9",
+        "question": "Quelle est la valeur manquante dans l'équation suivante : 35 = 7 x ?",
+        "options": [
+            "5",
+            "6",
+            "4",
+            "3"
+        ],
+        "answer": "5",
+        "details": "35 divisé par 7 donne 5. Donc 7*5 = 35."
+    },
+    {
+        "id": "10",
+        "question": "Lequel des ensembles suivants représente tous les entiers?",
+        "options": [
+            "{0, 1, 2, 3, ...}",
+            "Divisibles par 2",
+            "Nombres supérieurs à 1",
+            "Divisible par 0"
+        ],
+        "answer": "{0, 1, 2, 3, ...}",
+        "details": "Les entiers sont tous les nombres positifs sans fractions ou décimales, y compris le zéro."
+    },
+    {
+        "id": "11",
+        "question": "Chaque boîte contient 7 pommes. Combien y a-t-il de pommes dans 8 boîtes?",
+        "options": [
+            "56",
+            "55",
+            "64",
+            "49"
+        ],
+        "answer": "56",
+        "details": "Il faut multiplier le nombre de boîtes par le nombre de pommes par boîte pour obtenir le nombre total."
+    },
+    {
+        "id": "12",
+        "question": "Lucas a lu 25% d'un livre de 200 pages. Combien de pages a-t-il lu?",
+        "options": [
+            "50",
+            "75",
+            "100",
+            "25"
+        ],
+        "answer": "50",
+        "details": "Pour obtenir la réponse, tu dois multiplier le nombre total de pages par 25%."
+    },
+    {
+        "id": "13",
+        "question": "Pour un rectangle, si la longueur est de 5 cm et la largeur est de 3 cm. Quelle est l'aire de ce rectangle?",
+        "options": [
+            "15 cm²",
+            "16 cm²",
+            "17 cm²",
+            "18 cm²"
+        ],
+        "answer": "15 cm²",
+        "details": "L'aire d'un rectangle se calcule en multipliant sa longueur par sa largeur."
+    },
+    {
+        "id": "14",
+        "question": "Si vous prenez un quart (1/4) d'une pizza, puis la moitié (1/2) de ce qui reste, quelle fraction de la pizza reste-t-elle?",
+        "options": [
+            "1/4",
+            "3/8",
+            "1/2",
+            "3/4"
+        ],
+        "answer": "3/8",
+        "details": "Si vous prenez la moitié de la 3/4 qui reste, cela donne 3/8 de la pizza restante."
+    },
+    {
+        "id": "15",
+        "question": "Quelle est la fraction la plus simple que l'on peut obtenir à partir de 50 / 100?",
+        "options": [
+            "1/5",
+            "2/5",
+            "3/5",
+            "1/2"
+        ],
+        "answer": "1/2",
+        "details": "Les deux nombres peuvent être divisés par 50, ce qui donne 1/2."
+    },
+    {
+        "id": "16",
+        "question": "Si 360 représente 100%, combien représente 25% ?",
+        "options": [
+            "80",
+            "90",
+            "85",
+            "100"
+        ],
+        "answer": "90",
+        "details": "360 divisé par 4 donne 90. Donc 25% de 360 est 90."
+    },
+    {
+        "id": "17",
+        "question": "Si x est un nombre entier, quelle est la valeur de x dans l'équation suivante : 9 = 3x?",
+        "options": [
+            "3",
+            "4",
+            "2",
+            "1"
+        ],
+        "answer": "3",
+        "details": "Remplace x par 3. La valeur de 3x est donc 3*3 = 9."
+    },
+    {
+        "id": "18",
+        "question": "En utilisant seulement les chiffres 1, 2, 3 et 4, combien y a-t-il de nombres à quatre chiffres possibles?",
+        "options": [
+            "24",
+            "36",
+            "48",
+            "64"
+        ],
+        "answer": "24",
+        "details": "Il y a 4 options pour le premier chiffre, 3 pour le second, 2 pour le troisième et 1 pour le dernier. Cela donne 4*3*2*1 = 24."
+    },
+    {
+        "id": "19",
+        "question": "Un groupe de 6 amis souhaite partager équitablement 2 pizzas. Combien de pizzas chaque ami obtient-il?",
+        "options": [
+            "1/3",
+            "2/3",
+            "1/2",
+            "1/4"
+        ],
+        "answer": "1/3",
+        "details": "Il faut diviser le nombre total de pizzas par le nombre d'amis pour obtenir la réponse."
+    },
+    {
+        "id": "20",
+        "question": "Simplifier l'expression suivante : 2x + 3x",
+        "options": [
+            "5",
+            "5x",
+            "6x",
+            "7x"
+        ],
+        "answer": "5x",
+        "details": "Si on additionne les termes similaires on obtient : 2x + 3x = 5x."
+    }
+]

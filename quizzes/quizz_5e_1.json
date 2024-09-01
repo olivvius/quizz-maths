@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "question": "Quelle est la somme de 175 et 96 ?",
+        "options": [
+            "271",
+            "281",
+            "290",
+            "276"
+        ],
+        "answer": "271",
+        "details": "175 + 96 = 271"
+    },
+    {
+        "id": "2",
+        "question": "Convertis 3/4 en décimal.",
+        "options": [
+            "0.25",
+            "0.5",
+            "0.75",
+            "1.25"
+        ],
+        "answer": "0.75",
+        "details": "3 divisé par 4 donne 0.75"
+    },
+    {
+        "id": "3",
+        "question": "Quel est le produit de 8 et 7 ?",
+        "options": [
+            "54",
+            "56",
+            "64",
+            "70"
+        ],
+        "answer": "56",
+        "details": "8 x 7 = 56"
+    },
+    {
+        "id": "4",
+        "question": "Si une recette nécessite 300 g de farine pour 4 personnes, combien de farine est nécessaire pour 10 personnes ?",
+        "options": [
+            "700 g",
+            "750 g",
+            "800 g",
+            "900 g"
+        ],
+        "answer": "750 g",
+        "details": "300 g / 4 = 75 g par personne, alors 75 g x 10 = 750 g"
+    },
+    {
+        "id": "5",
+        "question": "Quel est 30% de 300 ?",
+        "options": [
+            "30",
+            "50",
+            "90",
+            "100"
+        ],
+        "answer": "90",
+        "details": "30% de 300 = 300 x 0.3 = 90"
+    },
+    {
+        "id": "6",
+        "question": "3^3 est égal à quoi ?",
+        "options": [
+            "6",
+            "9",
+            "27",
+            "30"
+        ],
+        "answer": "27",
+        "details": "3 x 3 x 3 = 27"
+    },
+    {
+        "id": "7",
+        "question": "2^4 est égal à quoi ?",
+        "options": [
+            "8",
+            "12",
+            "16",
+            "32"
+        ],
+        "answer": "16",
+        "details": "2^4 = 2 * 2 * 2 * 2 = 16"
+    },
+    {
+        "id": "8",
+        "question": "Quel type de graphique est utilisé pour montrer des proportions ?",
+        "options": [
+            "Histogramme",
+            "Diagramme circulaire",
+            "Graphique en ligne",
+            "Diagramme en barres"
+        ],
+        "answer": "Diagramme circulaire",
+        "details": "Le diagramme circulaire montre des proportions des différentes parties d'un tout."
+    },
+    {
+        "id": "9",
+        "question": "Simplifie l'expression : 2(x + 3) - x.",
+        "options": [
+            "x + 6",
+            "x + 3",
+            "3x + 6",
+            "x + 5"
+        ],
+        "answer": "x + 6",
+        "details": "2(x + 3) = 2x + 6, donc 2x + 6 - x = x + 6."
+    },
+    {
+        "id": "10",
+        "question": "Résous l'équation : x + 5 = 12.",
+        "options": [
+            "5",
+            "7",
+            "12",
+            "17"
+        ],
+        "answer": "7",
+        "details": "Pour isoler x, soustrais 5 des deux côtés : x = 12 - 5 = 7."
+    },
+    {
+        "id": "11",
+        "question": "Quel est le résultat de 45 divisé par 9 ?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "5",
+        "details": "45 ÷ 9 = 5"
+    },
+    {
+        "id": "12",
+        "question": "Écris 0,125 sous forme de fraction.",
+        "options": [
+            "1/8",
+            "1/4",
+            "1/2",
+            "1/10"
+        ],
+        "answer": "1/8",
+        "details": "0,125 = 125/1000 = 125 / (125 * 8) = 1/8 après simplification."
+    },
+    {
+        "id": "13",
+        "question": "Quelle est la différence entre 100 et 47 ?",
+        "options": [
+            "53",
+            "54",
+            "55",
+            "56"
+        ],
+        "answer": "53",
+        "details": "100 - 47 = 53."
+    },
+    {
+        "id": "14",
+        "question": "Si 15 km correspond à une carte de 5 cm, quelle distance correspond à 30 km sur cette même carte ?",
+        "options": [
+            "5 cm",
+            "10 cm",
+            "15 cm",
+            "20 cm"
+        ],
+        "answer": "10 cm",
+        "details": "Pour 30 km (2 fois plus), la distance sur la carte sera 2 x 5 cm = 10 cm."
+    },
+    {
+        "id": "15",
+        "question": "Quel est 10% de 500 ?",
+        "options": [
+            "40",
+            "50",
+            "60",
+            "70"
+        ],
+        "answer": "50",
+        "details": "10% de 500 = 500 x 0.10 = 50."
+    },
+    {
+        "id": "16",
+        "question": "Calcule 4^2.",
+        "options": [
+            "8",
+            "12",
+            "16",
+            "20"
+        ],
+        "answer": "16",
+        "details": "4 x 4 = 16."
+    },
+    {
+        "id": "17",
+        "question": "Quel est le moyenne de ces nombres : 6, 8, 10, 12 ?",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "answer": "9",
+        "details": "Moyenne = (6 + 8 + 10 + 12) / 4 = 36 / 4 = 9."
+    },
+    {
+        "id": "18",
+        "question": "Calcule l'expression : 3x + 4x.",
+        "options": [
+            "4x",
+            "5x",
+            "7x",
+            "10x"
+        ],
+        "answer": "7x",
+        "details": "3x + 4x = 7x."
+    },
+    {
+        "id": "19",
+        "question": "Résous l'équation : 3x = 15.",
+        "options": [
+            "3",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "5",
+        "details": "Divise chaque côté par 3 : x = 15 ÷ 3 = 5."
+    },
+    {
+        "id": "20",
+        "question": "Quel est le résultat de (3 + 2)² ?",
+        "options": [
+            "25",
+            "20",
+            "16",
+            "30"
+        ],
+        "answer": "25",
+        "details": "(3 + 2)² = 5² = 25."
+    }
+]

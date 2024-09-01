@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "question": "Quelle est la formule générale d'une suite arithmétique ?",
+        "options": [
+            "U(n) = U(1) + (n-1)r",
+            "U(n) = nr",
+            "U(n) = U(n-1) + r",
+            "U(n) = U(1) + nr"
+        ],
+        "answer": "U(n) = U(1) + (n-1)r",
+        "details": "Une suite arithmétique est définie par la relation de récurrence U(n) = U(n-1) + r où r est la raison de la suite. La formule générale en fonction du premier terme est U(n) = U(1) + (n-1)r."
+    },
+    {
+        "id": "2",
+        "question": "Quel est le domaine de définition de la fonction f(x) = 1/(x-2) ?",
+        "options": [
+            "x > 0",
+            "x < 2",
+            "x ≠ 2",
+            "x ≥ 2"
+        ],
+        "answer": "x ≠ 2",
+        "details": "La fonction f(x) = 1/(x-2) est définie pour tous les réels sauf lorsque le dénominateur est nul, c'est-à-dire lorsque x = 2. Donc, le domaine de définition est x ≠ 2."
+    },
+    {
+        "id": "3",
+        "question": "Si A et B sont deux événements indépendants, quelle est la formule de P(A ∩ B) ?",
+        "options": [
+            "P(A) + P(B)",
+            "P(A) * P(B)",
+            "P(A | B)",
+            "P(A) - P(B)"
+        ],
+        "answer": "P(A) * P(B)",
+        "details": "Pour des événements indépendants, la probabilité de l'intersection de deux événements est donnée par P(A ∩ B) = P(A) * P(B), ce qui est une propriété fondamentale en probabilités."
+    },
+    {
+        "id": "4",
+        "question": "Quelle est la forme exponentielle de 2^x ?",
+        "options": [
+            "e^(ln(2)x)",
+            "ln(2) x",
+            "2e^x",
+            "e^(2x)"
+        ],
+        "answer": "e^(ln(2)x)",
+        "details": "La fonction 2^x peut être exprimée sous la forme exponentielle e^(ln(2)x) car toute puissance peut être réécrite en utilisant le logarithme népérien, où ln(2) est le logarithme de 2."
+    },
+    {
+        "id": "5",
+        "question": "Quelle est la dérivée de la fonction f(x) = ln(x) ?",
+        "options": [
+            "1/x",
+            "ln(x)",
+            "x",
+            "e^x"
+        ],
+        "answer": "1/x",
+        "details": "La dérivée de la fonction logarithme népérien ln(x) est 1/x. Cela est vrai pour tous les x > 0, et ce résultat est crucial dans l'étude des fonctions logarithmiques."
+    },
+    {
+        "id": "6",
+        "question": "Dans quel cas les racines d'un polynôme complexe peuvent-elles être trouvées ?",
+        "options": [
+            "Toujours",
+            "Lorsque le polynôme a un degré impair",
+            "Si le polynôme est de degré 2",
+            "Lorsque tous les coefficients sont réels"
+        ],
+        "answer": "Toujours",
+        "details": "Un polynôme complexe a toujours des racines dans le plan complexe, par le théorème fondamental de l'algèbre. Peu importe le degré, il existe toujours au moins une racine."
+    },
+    {
+        "id": "7",
+        "question": "Quelle est la primitive de f(x) = 3x^2 ?",
+        "options": [
+            "x^3 + C",
+            "3/3 x^3 + C",
+            "3x^3",
+            "C"
+        ],
+        "answer": "x^3 + C",
+        "details": "La primitive de la fonction f(x) = 3x^2 est obtenue en appliquant la règle de la puissance : ∫ a*x^n dx = (a/n+1)x^(n+1) + C, d'où la primitive est x^3 + C."
+    },
+    {
+        "id": "8",
+        "question": "Quelle loi de probabilité est représentée par une courbe en cloche ?",
+        "options": [
+            "Loi binomiale",
+            "Loi de Poisson",
+            "Loi normale",
+            "Loi uniforme"
+        ],
+        "answer": "Loi normale",
+        "details": "La courbe en cloche représente la loi normale, qui est symétrique et caractérisée par sa moyenne et son écart-type. C'est une loi fondamentale en statistiques."
+    },
+    {
+        "id": "9",
+        "question": "Pour un échantillon de taille n, quel est l'intervalle de fluctuation pour un niveau de confiance de 95% ?",
+        "options": [
+            "± 1.96 * (σ/√n)",
+            "± 1.96 * (p(1-p)/n)",
+            "± 2 * (σ/√n)",
+            "± 1.64 * (σ/√n)"
+        ],
+        "answer": "± 1.96 * (σ/√n)",
+        "details": "Pour un échantillon de taille n, l'intervalle de fluctuation à 95% est donné par la formule ± 1.96 * (σ/√n), où σ est l'écart-type de la population."
+    },
+    {
+        "id": "10",
+        "question": "Quel est le volume d'un cylindre de rayon r et de hauteur h ?",
+        "options": [
+            "πr^2h",
+            "2πr^2h",
+            "πr^3h",
+            "πrh^2"
+        ],
+        "answer": "πr^2h",
+        "details": "Le volume d'un cylindre est donné par la formule V = πr²h, qui résulte de la base du cylindre (un cercle de rayon r) multipliée par la hauteur h."
+    },
+    {
+        "id": "11",
+        "question": "Quel est le terme général de la suite géométrique de premier terme U(1) et de raison q ?",
+        "options": [
+            "U(n) = U(1)q^n",
+            "U(n) = U(1) + (n-1)q",
+            "U(n) = U(1)q^(n-1)",
+            "U(n) = U(1) * n"
+        ],
+        "answer": "U(n) = U(1)q^(n-1)",
+        "details": "La formule du terme général d'une suite géométrique est U(n) = U(1)q^(n-1), où U(1) est le premier terme et q est la raison."
+    },
+    {
+        "id": "12",
+        "question": "Comment peut-on déterminer l'asymptote verticale d'une fonction rationnelle ?",
+        "options": [
+            "En calculant les limites",
+            "En résolvant l'équation du dénominateur",
+            "En dérivant la fonction",
+            "En trouvant les racines du numérateur"
+        ],
+        "answer": "En résolvant l'équation du dénominateur",
+        "details": "Les asymptotes verticales d'une fonction rationnelle sont déterminées par les valeurs de x qui annulent le dénominateur, car la fonction diverge en ces points."
+    },
+    {
+        "id": "13",
+        "question": "Si P(A) = 0.4 et P(B) = 0.6, quelle est P(A ∪ B) si A et B sont disjoints ?",
+        "options": [
+            "1.0",
+            "0.24",
+            "0.6",
+            "0.4"
+        ],
+        "answer": "1.0",
+        "details": "Si A et B sont des événements disjoints, la probabilité de leur union P(A ∪ B) est simplement la somme de leurs probabilités : P(A) + P(B) = 0.4 + 0.6 = 1.0."
+    },
+    {
+        "id": "14",
+        "question": "Quelle est la limite de la fonction f(x) = e^x lorsque x tend vers -∞ ?",
+        "options": [
+            "0",
+            "1",
+            "+∞",
+            "-∞"
+        ],
+        "answer": "0",
+        "details": "La limite de la fonction exponentielle e^x lorsque x tend vers -∞ est 0, car la fonction décroît vers 0 sans jamais l'atteindre."
+    },
+    {
+        "id": "15",
+        "question": "Quel est le logarithme népérien de e ?",
+        "options": [
+            "0",
+            "1",
+            "e",
+            "ln(2)"
+        ],
+        "answer": "1",
+        "details": "Le logarithme népérien de e, noté ln(e), est égal à 1 par définition, puisque le logarithme d'une base élevée à la puissance de 1 est égal à la base."
+    },
+    {
+        "id": "16",
+        "question": "Si z = a + bi, quelle est la forme polaire de z ?",
+        "options": [
+            "r(cos θ + sin θ)",
+            "r(e^(iθ))",
+            "a + bi",
+            "r^2"
+        ],
+        "answer": "r(e^(iθ))",
+        "details": "La forme polaire d'un nombre complexe z = a + bi est r(e^(iθ)), où r est le module (racine carrée de a^2 + b^2) et θ est l'argument."
+    },
+    {
+        "id": "17",
+        "question": "Quelle est la formule de la surface d'une sphère ?",
+        "options": [
+            "4πr^2",
+            "2πr^2",
+            "3πr^2",
+            "πr^2"
+        ],
+        "answer": "4πr^2",
+        "details": "La surface d'une sphère est donnée par la formule 4πr^2, où r est le rayon de la sphère. Cette formule est bien connue en géométrie."
+    },
+    {
+        "id": "18",
+        "question": "Quelle méthode permet d'approximer l'intégrale de f(x) = x^2 entre 0 et 1 ?",
+        "options": [
+            "Méthode des rectangles",
+            "Méthode de Simpson",
+            "Intégration par parties",
+            "Méthode de Monte Carlo"
+        ],
+        "answer": "Méthode des rectangles",
+        "details": "Pour approximer une intégrale sur un intervalle par des rectangles, on utilise la méthode des rectangles, qui consiste à évaluer la fonction à différents points et à sommer les aires correspondantes."
+    },
+    {
+        "id": "19",
+        "question": "Quel est le produit scalaire de deux vecteurs u et v dans R^3 ?",
+        "options": [
+            "u1*v1 + u2*v2 + u3*v3",
+            "u1+v1",
+            "u1*u2 + v1*v2",
+            "√(u1^2 + u2^2 + u3^2)"
+        ],
+        "answer": "u1*v1 + u2*v2 + u3*v3",
+        "details": "Le produit scalaire entre deux vecteurs u et v dans R^3 est donné par la somme des produits de leurs composantes respectives : u1*v1 + u2*v2 + u3*v3."
+    },
+    {
+        "id": "20",
+        "question": "Quelle est la distance entre deux points A(x1, y1) et B(x2, y2) dans le plan ?",
+        "options": [
+            "|x1 - x2| + |y1 - y2|",
+            "√((x2-x1)^2 + (y2-y1)^2)",
+            "|x1 - x2|^2 + |y1 - y2|^2",
+            "(x2 - x1)^2 + (y2 - y1)^2"
+        ],
+        "answer": "√((x2-x1)^2 + (y2-y1)^2)",
+        "details": "La distance entre deux points A(x1, y1) et B(x2, y2) est donnée par la formule de la distance euclidienne : d = √((x2-x1)^2 + (y2-y1)^2)."
+    }
+]

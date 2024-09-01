@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "question": "Quel est le résultat de 15 + 27 ?",
+        "options": [
+            "42",
+            "32",
+            "22",
+            "52"
+        ],
+        "answer": "42",
+        "details": "15 + 27 = 42."
+    },
+    {
+        "id": "2",
+        "question": "Quelle fraction représente 3 sur 4 ?",
+        "options": [
+            "3/4",
+            "4/3",
+            "1/4",
+            "2/2"
+        ],
+        "answer": "3/4",
+        "details": "La fraction 3 sur 4 s'écrit 3/4."
+    },
+    {
+        "id": "3",
+        "question": "Quelle est la valeur de 20 ÷ 4 ?",
+        "options": [
+            "5",
+            "4",
+            "6",
+            "2"
+        ],
+        "answer": "5",
+        "details": "20 divisé par 4 égale 5."
+    },
+    {
+        "id": "4",
+        "question": "Si un article coûte 50 euros et qu'il y a une réduction de 10%, quel sera le prix après réduction ?",
+        "options": [
+            "45 euros",
+            "50 euros",
+            "40 euros",
+            "55 euros"
+        ],
+        "answer": "45 euros",
+        "details": "10% de 50 euros est 5 euros. Donc, 50 - 5 = 45 euros."
+    },
+    {
+        "id": "5",
+        "question": "Quel est le produit de 7 et 9 ?",
+        "options": [
+            "63",
+            "72",
+            "56",
+            "81"
+        ],
+        "answer": "63",
+        "details": "7 multiplié par 9 égale 63."
+    },
+    {
+        "id": "6",
+        "question": "Résoudre l'équation : x + 5 = 12. Quelle est la valeur de x ?",
+        "options": [
+            "7",
+            "5",
+            "12",
+            "17"
+        ],
+        "answer": "7",
+        "details": "Pour isoler x, on soustrait 5 de chaque côté : x = 12 - 5 = 7."
+    },
+    {
+        "id": "7",
+        "question": "Quelle est la valeur de 8 - 3 + 7 ?",
+        "options": [
+            "9",
+            "12",
+            "15",
+            "8"
+        ],
+        "answer": "12",
+        "details": "8 - 3 = 5, puis 5 + 7 = 12."
+    },
+    {
+        "id": "8",
+        "question": "Convertir 0,75 en fraction.",
+        "options": [
+            "3/4",
+            "1/4",
+            "2/3",
+            "4/3"
+        ],
+        "answer": "3/4",
+        "details": "0,75 est équivalent à 3/4."
+    },
+    {
+        "id": "9",
+        "question": "Quel nombre est 20% de 50 ?",
+        "options": [
+            "5",
+            "10",
+            "15",
+            "20"
+        ],
+        "answer": "10",
+        "details": "20% de 50 est 10. (50 * 0,2 = 10)."
+    },
+    {
+        "id": "10",
+        "question": "Quel est le résultat de 6 x (4 + 2) ?",
+        "options": [
+            "24",
+            "36",
+            "30",
+            "12"
+        ],
+        "answer": "36",
+        "details": "On effectue d'abord l'addition : 4 + 2 = 6, puis on multiplie : 6 x 6 = 36."
+    },
+    {
+        "id": "11",
+        "question": "Si 5 oranges coûtent 10 euros, combien coûtent 8 oranges au même prix unitaire ?",
+        "options": [
+            "12 euros",
+            "16 euros",
+            "14 euros",
+            "10 euros"
+        ],
+        "answer": "16 euros",
+        "details": "Le prix unitaire est 10 euros ÷ 5 = 2 euros par orange. Donc, 8 oranges coûtent 8 x 2 = 16 euros."
+    },
+    {
+        "id": "12",
+        "question": "Quelle est la valeur de 25% de 200 ?",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50",
+        "details": "25% de 200 est 50 (200 x 0,25 = 50)."
+    },
+    {
+        "id": "13",
+        "question": "Quelle est la somme de 12,3 et 4,7 ?",
+        "options": [
+            "17",
+            "16",
+            "18",
+            "15"
+        ],
+        "answer": "17",
+        "details": "12,3 + 4,7 = 17."
+    },
+    {
+        "id": "14",
+        "question": "Résoudre l'équation : 3x = 12. Quelle est la valeur de x ?",
+        "options": [
+            "4",
+            "3",
+            "6",
+            "12"
+        ],
+        "answer": "4",
+        "details": "Pour isoler x, on divise chaque côté par 3 : x = 12 ÷ 3 = 4."
+    },
+    {
+        "id": "15",
+        "question": "Quel est le résultat de 18 - 4 x 2 ?",
+        "options": [
+            "10",
+            "12",
+            "14",
+            "8"
+        ],
+        "answer": "10",
+        "details": "On effectue d'abord la multiplication : 4 x 2 = 8, puis 18 - 8 = 10."
+    },
+    {
+        "id": "16",
+        "question": "Quelle est la fraction simplifiée de 8/12 ?",
+        "options": [
+            "2/3",
+            "4/3",
+            "3/2",
+            "2/4"
+        ],
+        "answer": "2/3",
+        "details": "8/12 simplifié est 2/3."
+    },
+    {
+        "id": "17",
+        "question": "Si une boîte contient 40 bonbons et que 15 sont rouges, quel pourcentage de bonbons sont rouges ?",
+        "options": [
+            "25%",
+            "30%",
+            "35%",
+            "40%"
+        ],
+        "answer": "37.5%",
+        "details": "Pour calculer le pourcentage : (15/40) x 100 = 37.5%"
+    },
+    {
+        "id": "18",
+        "question": "Quel est le produit de 5 et 6 ?",
+        "options": [
+            "30",
+            "36",
+            "24",
+            "12"
+        ],
+        "answer": "30",
+        "details": "5 multiplié par 6 est 30."
+    },
+    {
+        "id": "19",
+        "question": "Quelle opération permet de trouver le double d'un nombre ?",
+        "options": [
+            "Addition",
+            "Soustraction",
+            "Multiplication",
+            "Division"
+        ],
+        "answer": "Multiplication",
+        "details": "Pour trouver le double d'un nombre, on le multiplie par 2."
+    },
+    {
+        "id": "20",
+        "question": "Si une équation est x - 3 = 9, quelle est la valeur de x ?",
+        "options": [
+            "12",
+            "9",
+            "6",
+            "3"
+        ],
+        "answer": "12",
+        "details": "Pour isoler x, on additionne 3 aux deux côtés : x = 9 + 3 = 12."
+    }
+]

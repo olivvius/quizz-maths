@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "question": "Quelle est la somme de -5 et 8 ?",
+        "options": [
+            "3",
+            "13",
+            "-3",
+            "5"
+        ],
+        "answer": "3",
+        "details": "La somme de -5 et 8 est 8 - 5 = 3."
+    },
+    {
+        "id": "2",
+        "question": "Quelle est la fraction équivalente à 2/4 ?",
+        "options": [
+            "1/2",
+            "2/3",
+            "4/8",
+            "3/6"
+        ],
+        "answer": "1/2",
+        "details": "La fraction 2/4 peut être simplifiée par 2 pour obtenir 1/2."
+    },
+    {
+        "id": "3",
+        "question": "Calculer 1.5 + 0.75.",
+        "options": [
+            "2.25",
+            "2",
+            "1.5",
+            "3"
+        ],
+        "answer": "2.25",
+        "details": "1.5 + 0.75 = 2.25."
+    },
+    {
+        "id": "4",
+        "question": "Si 3 kg de pommes coûtent 6 euros, combien coûtent 5 kg ?",
+        "options": [
+            "10 euros",
+            "8 euros",
+            "12 euros",
+            "15 euros"
+        ],
+        "answer": "10 euros",
+        "details": "5 kg coûtent (6 euros / 3 kg) * 5 kg = 10 euros."
+    },
+    {
+        "id": "5",
+        "question": "Quelle est la valeur de 20% de 150 ?",
+        "options": [
+            "30",
+            "20",
+            "40",
+            "25"
+        ],
+        "answer": "30",
+        "details": "20% de 150 = 0.2 * 150 = 30."
+    },
+    {
+        "id": "6",
+        "question": "Écrivez 3 × 10^4 en notation décimale.",
+        "options": [
+            "30000",
+            "30",
+            "3000",
+            "0.003"
+        ],
+        "answer": "30000",
+        "details": "3 × 10^4 = 30000."
+    },
+    {
+        "id": "7",
+        "question": "Quelle est le développement de (x + 2)(x + 3) ?",
+        "options": [
+            "x^2 + 5x + 6",
+            "x^2 + 6x + 5",
+            "x^2 + 6",
+            "x^2 + 4x + 6"
+        ],
+        "answer": "x^2 + 5x + 6",
+        "details": "En développant, nous avons : x^2 + 3x + 2x + 6 = x^2 + 5x + 6."
+    },
+    {
+        "id": "8",
+        "question": "Résoudre l'équation : 2x + 3 = 11.",
+        "options": [
+            "4",
+            "5",
+            "3",
+            "7"
+        ],
+        "answer": "4",
+        "details": "2x + 3 = 11 => 2x = 8 => x = 4."
+    },
+    {
+        "id": "9",
+        "question": "Si f(x) = 2x + 1, quelle est f(3) ?",
+        "options": [
+            "7",
+            "8",
+            "6",
+            "5"
+        ],
+        "answer": "7",
+        "details": "f(3) = 2*3 + 1 = 6 + 1 = 7."
+    },
+    {
+        "id": "10",
+        "question": "Quelle est la mode des nombres suivants : 4, 2, 6, 4, 5, 4 ?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "2"
+        ],
+        "answer": "4",
+        "details": "La mode est le nombre qui apparaît le plus souvent, ici c'est 4."
+    },
+    {
+        "id": "11",
+        "question": "Quelle est la différence entre -7 et -3 ?",
+        "options": [
+            "-10",
+            "-4",
+            "4",
+            "10"
+        ],
+        "answer": "-4",
+        "details": "La différence -7 - (-3) = -7 + 3 = -4."
+    },
+    {
+        "id": "12",
+        "question": "Quelle est la fraction 8/12 simplifiée ?",
+        "options": [
+            "2/3",
+            "3/4",
+            "4/6",
+            "1/2"
+        ],
+        "answer": "2/3",
+        "details": "8/12 peut être simplifiée en divisant par 4, résultant en 2/3."
+    },
+    {
+        "id": "13",
+        "question": "Calculez 3.6 - 1.9.",
+        "options": [
+            "1.7",
+            "2.7",
+            "1.9",
+            "2.5"
+        ],
+        "answer": "1.7",
+        "details": "3.6 - 1.9 = 1.7."
+    },
+    {
+        "id": "14",
+        "question": "Si une pizza de 12 pouces coûte 15 euros, combien coûte une pizza de 18 pouces ?",
+        "options": [
+            "20 euros",
+            "25 euros",
+            "22 euros",
+            "30 euros"
+        ],
+        "answer": "25 euros",
+        "details": "Le coût d'une pizza est proportionnel à son aire; 18^2/12^2 = 2.25, donc 15 * 2.25 = 25 euros."
+    },
+    {
+        "id": "15",
+        "question": "En quoi 25% est-il de 200 ?",
+        "options": [
+            "50",
+            "100",
+            "25",
+            "75"
+        ],
+        "answer": "50",
+        "details": "25% de 200 = 0.25 * 200 = 50."
+    },
+    {
+        "id": "16",
+        "question": "Écrivez 5 × 10^2 en notation décimale.",
+        "options": [
+            "500",
+            "50",
+            "5",
+            "5000"
+        ],
+        "answer": "500",
+        "details": "5 × 10^2 = 500."
+    },
+    {
+        "id": "17",
+        "question": "Factorisez l'expression : x^2 - 9.",
+        "options": [
+            "(x + 3)(x - 3)",
+            "(x - 3)(x - 3)",
+            "(x + 3)(x + 3)",
+            "(x + 9)(x - 9)"
+        ],
+        "answer": "(x + 3)(x - 3)",
+        "details": "x^2 - 9 est une différence de carrés et se factorise en (x + 3)(x - 3)."
+    },
+    {
+        "id": "18",
+        "question": "Résoudre l'inéquation : 3x < 15.",
+        "options": [
+            "x < 3",
+            "x > 3",
+            "x = 3",
+            "x ≤ 3"
+        ],
+        "answer": "x < 5",
+        "details": "En divisant les deux côtés par 3, nous obtenons x < 5."
+    },
+    {
+        "id": "19",
+        "question": "Si f(x) = x^2 - 2, quelle est f(-1) ?",
+        "options": [
+            "1",
+            "0",
+            "-1",
+            "2"
+        ],
+        "answer": "1",
+        "details": "f(-1) = (-1)^2 - 2 = 1 - 2 = -1."
+    },
+    {
+        "id": "20",
+        "question": "Quel est la variance des nombres suivants: 2, 4, 4, 4, 5, 5, 7, 9 ?",
+        "options": [
+            "5",
+            "7",
+            "6",
+            "3"
+        ],
+        "answer": "5",
+        "details": "La variance est 5, ce qui est obtenu en calculant la moyenne des carrés des écarts à la moyenne."
+    }
+]

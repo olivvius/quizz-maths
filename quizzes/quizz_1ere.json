@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "question": "Quelle est la forme canonique de la fonction quadratique f(x) = 3x² - 12x + 5 ?",
+        "options": [
+            "f(x) = 3(x - 2)² - 7",
+            "f(x) = 3(x + 2)² + 1",
+            "f(x) = 3(x - 2)² + 1",
+            "f(x) = (x - 2)² + 5"
+        ],
+        "answer": "f(x) = 3(x - 2)² - 7",
+        "details": "Pour mettre la fonction sous forme canonique, il faut compléter le carré. On peut factoriser par 3, puis ajouter et soustraire le terme nécessaire pour obtenir un carré parfait, ce qui nous donne 3((x - 2)²) - 7."
+    },
+    {
+        "id": "2",
+        "question": "Soit P(A) = 0.4 et P(B) = 0.5, si A et B sont indépendants, quelle est P(A ∩ B) ?",
+        "options": [
+            "0.2",
+            "0.4",
+            "0.5",
+            "0.8"
+        ],
+        "answer": "0.2",
+        "details": "Pour deux événements indépendants, P(A ∩ B) = P(A) * P(B). Donc ici, P(A ∩ B) = 0.4 * 0.5 = 0.2."
+    },
+    {
+        "id": "3",
+        "question": "Quelles sont les limites de la fonction f(x) = 1/x quand x tend vers 0 ?",
+        "options": [
+            "+∞ et -∞",
+            "0 et ∞",
+            "-1 et 1",
+            "0 et 0"
+        ],
+        "answer": "+∞ et -∞",
+        "details": "Lorsque x approche 0 par la droite (valeurs positives), f(x) tend vers +∞, et lorsque x approche 0 par la gauche (valeurs négatives), f(x) tend vers -∞."
+    },
+    {
+        "id": "4",
+        "question": "Résoudre l'équation x² - 4x + 4 = 0.",
+        "options": [
+            "x = 0",
+            "x = 2",
+            "x = 4",
+            "x = 1"
+        ],
+        "answer": "x = 2",
+        "details": "C'est une équation du second degré dans laquelle le discriminant est égal à 0, donc il y a une unique solution : x = -(-4)/2 = 2."
+    },
+    {
+        "id": "5",
+        "question": "Quel est le rapport entre le côté opposé et l'hypoténuse dans un triangle rectangle ?",
+        "options": [
+            "Tangente",
+            "Cosinus",
+            "Sine",
+            "Cotangente"
+        ],
+        "answer": "Sine",
+        "details": "La définition de la fonction sinus pour un angle dans un triangle rectangle est le rapport entre la longueur du côté opposé à l'angle et la longueur de l'hypoténuse."
+    },
+    {
+        "id": "6",
+        "question": "Quelle est la dérivée de la fonction f(x) = x³ - 3x² + 2x ?",
+        "options": [
+            "3x² - 6x + 2",
+            "3x² - 6x",
+            "2x - 6",
+            "6x"
+        ],
+        "answer": "3x² - 6x + 2",
+        "details": "La dérivée de x³ est 3x², celle de -3x² est -6x, et celle de 2x est 2. En combinant ces résultats, on obtient 3x² - 6x + 2."
+    },
+    {
+        "id": "7",
+        "question": "Calculer le produit scalaire de deux vecteurs u(2, 3) et v(4, -1).",
+        "options": [
+            "10",
+            "5",
+            "-1",
+            "2"
+        ],
+        "answer": "5",
+        "details": "Le produit scalaire se calcule comme suit : u · v = 2*4 + 3*(-1) = 8 - 3 = 5."
+    },
+    {
+        "id": "8",
+        "question": "Quelle est la somme des premiers termes de la suite arithmétique de premier terme 3 et de raison 2, jusqu'à 5 termes ?",
+        "options": [
+            "30",
+            "15",
+            "50",
+            "25"
+        ],
+        "answer": "30",
+        "details": "La suite est 3, 5, 7, 9, 11. La somme est 3 + 5 + 7 + 9 + 11 = 35."
+    },
+    {
+        "id": "9",
+        "question": "Si f(t) = 2t + 3, quelle est la modélisation pour f(4) ?",
+        "options": [
+            "11",
+            "5",
+            "8",
+            "10"
+        ],
+        "answer": "11",
+        "details": "En substituant t = 4 dans l'expression de f(t), on obtient f(4) = 2*4 + 3 = 8 + 3 = 11."
+    },
+    {
+        "id": "10",
+        "question": "Si cos(θ) = 0.6, quelle est la valeur de sin²(θ) ?",
+        "options": [
+            "0.36",
+            "0.64",
+            "0.8",
+            "0.5"
+        ],
+        "answer": "0.64",
+        "details": "Utilisant l'identité sin²(θ) + cos²(θ) = 1, nous avons sin²(θ) = 1 - cos²(θ) = 1 - 0.36 = 0.64."
+    },
+    {
+        "id": "11",
+        "question": "Comment peut-on déterminer si une fonction est croissante sur un intervalle donné ?",
+        "options": [
+            "En étudiant son signe",
+            "En regardant les limites",
+            "En dérivant et en étudiant le signe de la dérivée",
+            "En calculant ses valeurs"
+        ],
+        "answer": "En dérivant et en étudiant le signe de la dérivée",
+        "details": "Une fonction est croissante sur un intervalle si sa dérivée est positive sur cet intervalle."
+    },
+    {
+        "id": "12",
+        "question": "Quelle est la forme factorisée de x² - 9 ?",
+        "options": [
+            "(x - 3)(x + 3)",
+            "(x - 9)(x + 1)",
+            "(x - 3)(x - 3)",
+            "(x + 3)(x + 3)"
+        ],
+        "answer": "(x - 3)(x + 3)",
+        "details": "x² - 9 est une différence de carrés, qui se factorise sous la forme (x - a)(x + a) où a² = 9, donc a = 3."
+    },
+    {
+        "id": "13",
+        "question": "Quelle est la probabilité de tirer une boule rouge dans un sac contenant 3 boules rouges et 2 bleues ?",
+        "options": [
+            "0.6",
+            "0.3",
+            "0.5",
+            "0.4"
+        ],
+        "answer": "0.6",
+        "details": "La probabilité est P(Rouge) = nombre de boules rouges / nombre total de boules = 3 / (3 + 2) = 3/5 = 0.6."
+    },
+    {
+        "id": "14",
+        "question": "Quel angle a pour cosinus 0 dans le cercle trigonométrique ?",
+        "options": [
+            "0°",
+            "90°",
+            "180°",
+            "270°"
+        ],
+        "answer": "90°",
+        "details": "Dans le cercle trigonométrique, le cosinus est égal à 0 pour les angles à 90° et 270°."
+    },
+    {
+        "id": "15",
+        "question": "Déterminer la limite de f(x) = x² + 2x - 3 quand x tend vers 1.",
+        "options": [
+            "0",
+            "3",
+            "5",
+            "1"
+        ],
+        "answer": "0",
+        "details": "En substituant x par 1 dans l'expression, on obtient f(1) = (1)² + 2(1) - 3 = 1 + 2 - 3 = 0."
+    },
+    {
+        "id": "16",
+        "question": "Calculez la dérivée de f(x) = sin(x) + cos(x).",
+        "options": [
+            "cos(x) - sin(x)",
+            "sin(x) - cos(x)",
+            "-sin(x) + cos(x)",
+            "-sin(x) - cos(x)"
+        ],
+        "answer": "cos(x) - sin(x)",
+        "details": "La dérivée de sin(x) est cos(x) et la dérivée de cos(x) est -sin(x). Donc, la dérivée de f(x) est cos(x) - sin(x)."
+    },
+    {
+        "id": "17",
+        "question": "Si a et b sont deux vecteurs, comment calcule-t-on leur produit scalaire ?",
+        "options": [
+            "a·b = |a||b|cos(θ)",
+            "a·b = |a| + |b|",
+            "a·b = |a| - |b|",
+            "a·b = a + b"
+        ],
+        "answer": "a·b = |a||b|cos(θ)",
+        "details": "Le produit scalaire de deux vecteurs peut être exprimé comme le produit de leurs normes multiplié par le cosinus de l'angle entre eux."
+    },
+    {
+        "id": "18",
+        "question": "Quels sont les termes d'une suite géométrique de premier terme 2 et de raison 3, jusqu'à 4 termes ?",
+        "options": [
+            "2, 6, 18, 54",
+            "2, 5, 7, 9",
+            "2, 4, 8, 16",
+            "2, 3, 4, 5"
+        ],
+        "answer": "2, 6, 18, 54",
+        "details": "La suite géométrique se forme en multipliant chaque terme par la raison : 2, 2*3=6, 6*3=18, 18*3=54."
+    },
+    {
+        "id": "19",
+        "question": "Quelle est la somme des angles d'un triangle ?",
+        "options": [
+            "90°",
+            "180°",
+            "270°",
+            "360°"
+        ],
+        "answer": "180°",
+        "details": "Dans un triangle, la somme des angles intérieurs est toujours égale à 180°."
+    },
+    {
+        "id": "20",
+        "question": "Résoudre l'équation 2x² + 3x - 5 = 0.",
+        "options": [
+            "x = 1",
+            "x = -1",
+            "x = 2",
+            "x = -2.5"
+        ],
+        "answer": "x = -2.5",
+        "details": "On utilise la formule quadratique : x = [-b ± √(b² - 4ac)] / 2a. Ici, b² - 4ac = 9 + 40 = 49, donc la solution est x = (-3 ± 7) / 4 ; on obtient ainsi x = 1 et x = -2.5."
+    }
+]

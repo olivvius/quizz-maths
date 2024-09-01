@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "question": "Quel est le résultat de -5 + 8 ?",
+        "options": [
+            "3",
+            "13",
+            "-3",
+            "-13"
+        ],
+        "answer": "3",
+        "details": "En ajoutant -5 à 8, on se déplace de 5 unités vers la gauche depuis 8, ce qui donne 3."
+    },
+    {
+        "id": "2",
+        "question": "Si 3/4 d'un nombre est 12, quel est ce nombre ?",
+        "options": [
+            "16",
+            "20",
+            "24",
+            "32"
+        ],
+        "answer": "16",
+        "details": "Pour trouver le nombre, on fait 12 ÷ (3/4) = 12 x (4/3) = 16."
+    },
+    {
+        "id": "3",
+        "question": "Quelle est la valeur de 2^5 ?",
+        "options": [
+            "10",
+            "16",
+            "32",
+            "64"
+        ],
+        "answer": "32",
+        "details": "2^5 signifie 2 multiplié par lui-même 5 fois : 2 x 2 x 2 x 2 x 2 = 32."
+    },
+    {
+        "id": "4",
+        "question": "Quel est 25% de 200 ?",
+        "options": [
+            "50",
+            "100",
+            "75",
+            "25"
+        ],
+        "answer": "50",
+        "details": "25% de 200 est calculé comme 200 x (25/100) = 50."
+    },
+    {
+        "id": "5",
+        "question": "Résoudre l'équation : 2x + 5 = 13.",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "4",
+        "details": "On soustrait 5 de chaque côté, ce qui donne 2x = 8, puis on divise par 2 pour trouver x = 4."
+    },
+    {
+        "id": "6",
+        "question": "Si f(x) = 2x + 3, quelle est la valeur de f(2) ?",
+        "options": [
+            "4",
+            "5",
+            "7",
+            "8"
+        ],
+        "answer": "7",
+        "details": "On remplace x par 2 dans la fonction : f(2) = 2x2 + 3 = 4 + 3 = 7."
+    },
+    {
+        "id": "7",
+        "question": "Comment s'écrit 0.75 sous forme de fraction ?",
+        "options": [
+            "3/4",
+            "1/4",
+            "1/2",
+            "2/3"
+        ],
+        "answer": "3/4",
+        "details": "0.75 est équivalent à 75/100, ce qui peut être simplifié en 3/4."
+    },
+    {
+        "id": "8",
+        "question": "Résoudre l'inéquation : 3x - 7 < 2.",
+        "options": [
+            "x < 3",
+            "x > 3",
+            "x < 1",
+            "x > 1"
+        ],
+        "answer": "x < 3",
+        "details": "On ajoute 7 à chaque côté pour obtenir 3x < 9, puis on divise par 3."
+    },
+    {
+        "id": "9",
+        "question": "Quel est le produit de (-3) x 4 ?",
+        "options": [
+            "-12",
+            "12",
+            "0",
+            "7"
+        ],
+        "answer": "-12",
+        "details": "Le produit d'un nombre négatif et d'un nombre positif est négatif."
+    },
+    {
+        "id": "10",
+        "question": "Quelle est l'aire d'un rectangle de longueur 5 cm et largeur 3 cm ?",
+        "options": [
+            "8 cm²",
+            "15 cm²",
+            "12 cm²",
+            "18 cm²"
+        ],
+        "answer": "15 cm²",
+        "details": "Aire = longueur x largeur = 5 x 3 = 15 cm²."
+    },
+    {
+        "id": "11",
+        "question": "Quel est le résultat de sqrt(16) ?",
+        "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+        ],
+        "answer": "4",
+        "details": "La racine carrée de 16 est 4, car 4 x 4 = 16."
+    },
+    {
+        "id": "12",
+        "question": "Si l'on divise 50 par 0.5, quel est le résultat ?",
+        "options": [
+            "25",
+            "75",
+            "100",
+            "110"
+        ],
+        "answer": "100",
+        "details": "Diviser par 0.5 est équivalent à multiplier par 2 : 50 ÷ 0.5 = 50 x 2 = 100."
+    },
+    {
+        "id": "13",
+        "question": "Combien de degrés sont dans un angle droit ?",
+        "options": [
+            "90",
+            "45",
+            "180",
+            "360"
+        ],
+        "answer": "90",
+        "details": "Un angle droit mesure toujours 90 degrés."
+    },
+    {
+        "id": "14",
+        "question": "Quel est le mode des nombres suivants : 2, 3, 4, 3, 3, 5 ?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "3",
+        "details": "Le mode est le nombre qui apparaît le plus fréquemment ; ici, c'est 3."
+    },
+    {
+        "id": "15",
+        "question": "Si P(A) = 0.2, quelle est la probabilité de l'événement A non réalisé ?",
+        "options": [
+            "0.2",
+            "0.5",
+            "0.8",
+            "0.9"
+        ],
+        "answer": "0.8",
+        "details": "La probabilité de l'événement A non réalisé est 1 - P(A) = 1 - 0.2 = 0.8."
+    },
+    {
+        "id": "16",
+        "question": "Quel est le résultat de (x + 2)(x - 2) ?",
+        "options": [
+            "x^2 - 4",
+            "x^2 + 4",
+            "x^2 - 2",
+            "x^2 + 2"
+        ],
+        "answer": "x^2 - 4",
+        "details": "C'est une différence de carrés, donc on obtient x^2 - 4."
+    },
+    {
+        "id": "17",
+        "question": "Si un étudiant a 12 sur 20, quel est son score en pourcentage ?",
+        "options": [
+            "50%",
+            "60%",
+            "70%",
+            "80%"
+        ],
+        "answer": "60%",
+        "details": "Le pourcentage est calculé en (12/20) x 100 = 60%."
+    },
+    {
+        "id": "18",
+        "question": "Combien de fois 5 est contenu dans 25 ?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "5",
+        "details": "25 ÷ 5 = 5, donc 5 est contenu 5 fois dans 25."
+    },
+    {
+        "id": "19",
+        "question": "Quelle est la somme des angles d'un triangle ?",
+        "options": [
+            "90 degrés",
+            "180 degrés",
+            "270 degrés",
+            "360 degrés"
+        ],
+        "answer": "180 degrés",
+        "details": "La somme des angles d'un triangle est toujours 180 degrés."
+    },
+    {
+        "id": "20",
+        "question": "Si x = 3, quelle est la valeur de 4x - 1 ?",
+        "options": [
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "answer": "11",
+        "details": "On remplace x par 3 dans l'expression : 4x3 - 1 = 12 - 1 = 11."
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "question": "Quel est le produit de ‑3 et ‑5 ?",
+        "options": [
+            "-15",
+            "15",
+            "-8",
+            "8"
+        ],
+        "answer": "15",
+        "details": "Le produit de deux nombres négatifs est un nombre positif."
+    },
+    {
+        "id": "2",
+        "question": "Quel est le quotient de -60 par 4?",
+        "options": [
+            "-15",
+            "15",
+            "-16",
+            "16"
+        ],
+        "answer": "-15",
+        "details": "Un nombre négatif divisé par un nombre positif donne un nombre négatif."
+    },
+    {
+        "id": "3",
+        "question": "Quelle fraction est équivalente à 0.75?",
+        "options": [
+            "3/4",
+            "4/3",
+            "7/10",
+            "10/7"
+        ],
+        "answer": "3/4",
+        "details": "Pour convertir un nombre décimal en fraction, on divise le nombre par 1 suivi du même nombre de zéros que de chiffres après la virgule."
+    },
+    {
+        "id": "4",
+        "question": "Que représente 60% sous forme de fraction réduite ?",
+        "options": [
+            "3/5",
+            "6/10",
+            "60/100",
+            "60/10"
+        ],
+        "answer": "3/5",
+        "details": "60% = 60/100 = 6/10 = 3/5 en forme réduite."
+    },
+    {
+        "id": "5",
+        "question": "Si 2 est le quatrième terme d'une série géométrique de raison 2, quel est le premier terme?",
+        "options": [
+            "1/2",
+            "1",
+            "1/3",
+            "1/4"
+        ],
+        "answer": "1/2",
+        "details": "Dans une série géométrique, chaque terme est égal au précédent multiplié par la raison. Si 2 est le quatrième terme de raison 2, le premier terme est 2/(2³) = 1/2."
+    },
+    {
+        "id": "6",
+        "question": "Factorise l'expression 2x² - 10x.",
+        "options": [
+            "2(x - 5)",
+            "2x(x - 5)",
+            "x(2x - 10)",
+            "2(x² - 5x)"
+        ],
+        "answer": "2x(x - 5)",
+        "details": "On met en facteur le plus grand facteur commun des deux termes, qui est 2x."
+    },
+    {
+        "id": "7",
+        "question": "Résous l'équation suivante : 2x + 6 = 0.",
+        "options": [
+            "x = -3",
+            "x = 3",
+            "x = -2",
+            "x = 2"
+        ],
+        "answer": "x = -3",
+        "details": "Pour résoudre cette équation, isolez x : 2x = -6 et donc x = -3."
+    },
+    {
+        "id": "8",
+        "question": "Quelle est la solution de l'inéquation 3x + 2 > 11?",
+        "options": [
+            "x > 3",
+            "x > -3",
+            "x < 3",
+            "x < -3"
+        ],
+        "answer": "x > 3",
+        "details": "Pour résoudre cette inéquation, isolez x : 3x > 9 et donc x > 3."
+    },
+    {
+        "id": "9",
+        "question": "Quel est le coefficient directeur de la fonction affine f(x) = 3x + 2 ?",
+        "options": [
+            "3",
+            "2",
+            "-3",
+            "-2"
+        ],
+        "answer": "3",
+        "details": "Dans une fonction affine de la forme f(x) = mx + p, m est le coefficient directeur."
+    },
+    {
+        "id": "10",
+        "question": "Quelle est la médiane de l'ensemble de données suivant : 1, 3, 3, 6, 7, 8, 9 ?",
+        "options": [
+            "6",
+            "7",
+            "3",
+            "1"
+        ],
+        "answer": "6",
+        "details": "La médiane d'un ensemble de données est le nombre qui se trouve au milieu de la série une fois celle-ci ordonnée."
+    },
+    {
+        "id": "11",
+        "question": "Qu'est-ce qu'une abscisse ?",
+        "options": [
+            "Une valeur sur l'axe vertical",
+            "Une valeur sur l'axe horizontal",
+            "Le minimum d'une fonction",
+            "Le maximum d'une fonction"
+        ],
+        "answer": "Une valeur sur l'axe horizontal",
+        "details": "L'abscisse d'un point est sa position sur l'axe horizontal d'un système de coordonnées."
+    },
+    {
+        "id": "12",
+        "question": "Quel est l'inverse de 5 ?",
+        "options": [
+            "0.2",
+            "-0.2",
+            "20",
+            "-20"
+        ],
+        "answer": "0.2",
+        "details": "L'inverse d'un nombre x est 1/x."
+    },
+    {
+        "id": "13",
+        "question": "Comment dit-on en mathématiques l'action de rendre rationnel le dénominateur d'une fraction ?",
+        "options": [
+            "Simplification",
+            "Rationalisation",
+            "Normalisation",
+            "Harmonisation"
+        ],
+        "answer": "Rationalisation",
+        "details": "La rationalisation consiste à éliminer les radicaux du dénominateur d'une fraction."
+    },
+    {
+        "id": "14",
+        "question": "Quelle est la dérivée de f(x) = x⁴ ?",
+        "options": [
+            "4x³",
+            "4x",
+            "x^3",
+            "1/4"
+        ],
+        "answer": "4x³",
+        "details": "La dérivée d'une fonction f(x) = x^n est f'(x) = n * x^(n-1)."
+    },
+    {
+        "id": "15",
+        "question": "Quel pourcentage de 50 est 15?",
+        "options": [
+            "30%",
+            "15%",
+            "35%",
+            "25%"
+        ],
+        "answer": "30%",
+        "details": "(15 / 50) * 100 = 30%."
+    },
+    {
+        "id": "16",
+        "question": "Simplifie l’expression (4²)³",
+        "options": [
+            "4^6",
+            "12",
+            "64",
+            "16"
+        ],
+        "answer": "4^6",
+        "details": "On multiplie les exposants pour obtenir 4^6."
+    },
+    {
+        "id": "17",
+        "question": "Développe l'expression suivante : (x+3)(x+2)",
+        "options": [
+            "x²+5x+6",
+            "x²+6x+5",
+            "x²+3x+2",
+            "2x+5"
+        ],
+        "answer": "x²+5x+6",
+        "details": "On utilise la formule du produit : (a+b) * (c+d) = ac + ad + bc + bd."
+    },
+    {
+        "id": "18",
+        "question": "Résous le système d’équations suivant : x+y=7, 2x-y=3.",
+        "options": [
+            "x = 2, y = 5",
+            "x = 5, y = 2",
+            "x = 3, y = 4",
+            "x = 4, y = 3"
+        ],
+        "answer": "x = 5, y = 2",
+        "details": "Pour résoudre ce système, on peut additionner les deux équations pour éliminer y et trouver x, puis substituer x dans une des deux équations pour trouver y."
+    },
+    {
+        "id": "19",
+        "question": "Dans une classe de 30 élèves, 18 sont filles. Quel est le pourcentage de filles dans la classe ?",
+        "options": [
+            "40%",
+            "60%",
+            "55%",
+            "50%"
+        ],
+        "answer": "60%",
+        "details": "(18 / 30) * 100 = 60%."
+    },
+    {
+        "id": "20",
+        "question": "Dans un jeu, vous avez une probabilité de 1/5 de gagner. Quelle est la probabilité que vous perdiez ?",
+        "options": [
+            "4/5",
+            "1/5",
+            "1/4",
+            "3/5"
+        ],
+        "answer": "4/5",
+        "details": "La probabilité totale est toujours 1. Donc, si la probabilité de gagner est 1/5, la probabilité de perdre est 1 - 1/5 = 4/5."
+    }
+]
